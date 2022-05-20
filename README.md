@@ -1,4 +1,11 @@
+# Coderschool Javascript Playground (CJP)
 
-# Haikus for Codespaces
+## What is this again?
+A simple tool to help you debug your Javascript application easier -> learn faster. 
+* ♻ **Hot reloading**: immediately see your new changes or `console.log()` output without clicking `Save` or `Run`
+* 🐛 **Awesome debugging**: set breakpoints, inspect variables, etc. each line of code at a time 
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+## Awesome! How can I get it again?
+1. Make sure you have a Github account.
+2. Fork this repo to your account.
+3. Go to your repo, click Code > Choose Codespaces tab > Create Codespaces on main.
